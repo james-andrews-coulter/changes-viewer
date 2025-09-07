@@ -35,11 +35,11 @@ This task list outlines the steps to build the "Changes Viewer" web application.
 ### Phase 2: Building the UI Components
 
 **Task 4: Create the Initial "Empty State" View**
-- [ ] Open `src/App.jsx`.
-- [ ] Clear out the boilerplate content inside the main `div`.
-- [ ] Use Tailwind CSS to make the main `div` a flex container that fills the screen (`h-screen`, `flex`, `items-center`, `justify-center`).
-- [ ] Import the Radix UI `Button` component: `import { Button } from '@radix-ui/react-button';`.
-- [ ] Add the `<Button>` to the page with the text "Upload File".
+- [x] Open `src/App.jsx`.
+- [x] Clear out the boilerplate content inside the main `div`.
+- [x] Use Tailwind CSS to make the main `div` a flex container that fills the screen (`h-screen`, `flex`, `items-center`, `justify-center`).
+- [x] Import the Radix UI `Button` component: `import { Button } from '@radix-ui/react-button';`.
+- [x] Add the `<Button>` to the page with the text "Upload File".
 
 **QA Step 2: Verify Empty State**
 - [ ] The browser should display a full-height page with a single, centered button labeled "Upload File".
