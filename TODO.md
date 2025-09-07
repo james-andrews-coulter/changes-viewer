@@ -14,10 +14,10 @@ This task list outlines the steps to build the "Changes Viewer" web application.
 - [x] Run `npm run dev` to start the development server and ensure the default React app loads in your browser.
 
 **Task 2: Add and Configure Tailwind CSS**
-- [ ] Stop the development server (`Ctrl + C`).
-- [ ] Follow the official Vite guide to install and configure Tailwind CSS: [Install Tailwind CSS with Vite](https://tailwindcss.com/docs/guides/vite).
-- [ ] Make sure to update `tailwind.config.js` and `index.css` as per the guide.
-- [ ] Start the dev server again (`npm run dev`) and test a Tailwind class (e.g., add `className="bg-blue-500"` to the `App.jsx` main div) to confirm it's working.
+- [x] Stop the development server (`Ctrl + C`).
+- [x] Follow the official Vite guide to install and configure Tailwind CSS: [Install Tailwind CSS with Vite](https://tailwindcss.com/docs/guides/vite).
+- [x] Make sure to update `tailwind.config.js` and `index.css` as per the guide.
+- [x] Start the dev server again (`npm run dev`) and test a Tailwind class (e.g., add `className="bg-blue-500"` to the `App.jsx` main div) to confirm it's working.
 
 **Task 3: Install Radix UI Components**
 - [ ] Stop the development server.
