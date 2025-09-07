@@ -5,6 +5,8 @@ A simple proof of concept using React, Vite, and Radix/Tailwind CSS to visualise
 The idea is to not only just show 'what's changed' between snapshots, but 'where it's changed' in the context of the dataset. 
 
 
+LIVE PREVIEW: [https://changes-viewer.vercel.app/](https://changes-viewer.vercel.app/)
+
 # How it works
 1. takes a 'changes.json' file upload
 2. builds a table from the file's 'data' list
