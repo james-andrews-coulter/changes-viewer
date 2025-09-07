@@ -20,10 +20,10 @@ This task list outlines the steps to build the "Changes Viewer" web application.
 - [x] Start the dev server again (`npm run dev`) and test a Tailwind class (e.g., add `className="bg-blue-500"` to the `App.jsx` main div) to confirm it's working.
 
 **Task 3: Install Radix UI Components**
-- [ ] Stop the development server.
-- [ ] In your terminal, run `npm install @radix-ui/react-button @radix-ui/react-slot`.
-- [ ] In your terminal, run `npm install @radix-ui/react-table`.
-- [ ] No further configuration is needed for Radix UI.
+- [x] Stop the development server.
+- [x] In your terminal, run `npm install @radix-ui/react-button @radix-ui/react-slot`.
+- [x] In your terminal, run `npm install @radix-ui/react-table`.
+- [x] No further configuration is needed for Radix UI.
 
 **QA Step 1: Verify Project Setup**
 - [ ] Your project should have React, Vite, Tailwind CSS, and Radix UI installed.
