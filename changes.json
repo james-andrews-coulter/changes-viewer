@@ -1,0 +1,325 @@
+{
+    "id": "68b9d09b-4f6c-492b-8d02-b40a00000002",
+    "workflowId": "68b98c8d-963a-4c22-a23a-a60c0000000d",
+    "differences": [
+        {
+            "type": "added",
+            "fields": [
+                {
+                    "key": "title",
+                    "value": "WATCH: RFK Jr. says firings at CDC were ‘necessary,’ blames organization for failed COVID policy"
+                },
+                {
+                    "key": "author",
+                    "value": "By Kenichi Serino"
+                },
+                {
+                    "key": "link",
+                    "value": "https://www.pbs.org/newshour/politics/watch-rfk-jr-says-firings-at-cdc-were-necessary-blames-organization-for-failed-covid-policy"
+                },
+                {
+                    "key": "image",
+                    "value": "https://d3i6fh83elv35t.cloudfront.net/static/2025/09/2025-09-04T153132Z_1382169221_RC23LGARFWLA_RTRMADP_3_USA-HEALTH-CDC-425x300.jpg"
+                }
+            ]
+        },
+        {
+            "type": "added",
+            "fields": [
+                {
+                    "key": "title",
+                    "value": "How Donald Trump’s untimely and untrue ‘death’ unfolded on social media"
+                },
+                {
+                    "key": "author",
+                    "value": "By Maria Ramirez Uribe, Loreben Tuquero, PolitiFact"
+                },
+                {
+                    "key": "link",
+                    "value": "https://www.pbs.org/newshour/politics/how-donald-trumps-untimely-and-untrue-death-unfolded-on-social-media"
+                },
+                {
+                    "key": "image",
+                    "value": "https://d3i6fh83elv35t.cloudfront.net/static/2025/09/GettyImages-2233408302-425x300.jpg"
+                }
+            ]
+        },
+        {
+            "type": "added",
+            "fields": [
+                {
+                    "key": "title",
+                    "value": "Macron says 26 countries pledge troops as a reassurance force for Ukraine after fighting ends"
+                },
+                {
+                    "key": "author",
+                    "value": "By Illia Novikov, Samuel Petrequin, Associated Press"
+                },
+                {
+                    "key": "link",
+                    "value": "https://www.pbs.org/newshour/politics/the-district-of-columbia-sues-over-trumps-deployment-of-the-national-guard-2"
+                },
+                {
+                    "key": "image",
+                    "value": "https://d3i6fh83elv35t.cloudfront.net/static/2025/09/2025-09-04T152337Z_1043460738_RC23LGAHXFMB_RTRMADP_3_UKRAINE-CRISIS-COALITION-425x300.jpg"
+                }
+            ]
+        },
+        {
+            "type": "added",
+            "fields": [
+                {
+                    "key": "title",
+                    "value": "Nepal blocks Facebook, X, YouTube and others for failing to register with the government"
+                },
+                {
+                    "key": "author",
+                    "value": "By Associated Press"
+                },
+                {
+                    "key": "link",
+                    "value": "https://www.pbs.org/newshour/world/nepal-blocks-facebook-x-youtube-and-others-for-failing-to-register-with-the-government"
+                },
+                {
+                    "key": "image",
+                    "value": "https://d3i6fh83elv35t.cloudfront.net/static/2025/09/2025-09-04T145819Z_281463071_MT1ZUMA000DO2EOC_RTRMADP_3_ZUMA-425x300.jpg"
+                }
+            ]
+        },
+        {
+            "type": "added",
+            "fields": [
+                {
+                    "key": "title",
+                    "value": "Trump’s Fed nominee says he’d keep his White House job even if confirmed by the Senate"
+                },
+                {
+                    "key": "author",
+                    "value": "By Josh Boak, Associated Press"
+                },
+                {
+                    "key": "link",
+                    "value": "https://www.pbs.org/newshour/politics/trumps-fed-nominee-says-hed-keep-his-white-house-job-even-if-confirmed-by-the-senate"
+                },
+                {
+                    "key": "image",
+                    "value": "https://d3i6fh83elv35t.cloudfront.net/static/2025/09/2025-09-04T155528Z_138761245_RC23LGAK0AE0_RTRMADP_3_USA-FED-MIRAN-425x300.jpg"
+                }
+            ]
+        },
+        {
+            "type": "added",
+            "fields": [
+                {
+                    "key": "title",
+                    "value": "The District of Columbia sues over Trump’s deployment of the National Guard"
+                },
+                {
+                    "key": "author",
+                    "value": "By Lindsay Whitehurst, Associated Press"
+                },
+                {
+                    "key": "link",
+                    "value": "https://www.pbs.org/newshour/politics/the-district-of-columbia-sues-over-trumps-deployment-of-the-national-guard"
+                },
+                {
+                    "key": "image",
+                    "value": "https://d3i6fh83elv35t.cloudfront.net/static/2025/09/2025-09-02T023142Z_1203452603_RC27JGA4BMLT_RTRMADP_3_USA-TRUMP-CRIME-425x300.jpg"
+                }
+            ]
+        },
+        {
+            "type": "removed",
+            "fields": [
+                {
+                    "key": "title",
+                    "value": "Wall Street inches higher before the bell ahead of critical jobs data release this week"
+                },
+                {
+                    "key": "author",
+                    "value": "By Associated Press"
+                },
+                {
+                    "key": "link",
+                    "value": "https://www.pbs.org/newshour/economy/wall-street-inches-higher-before-the-bell-ahead-of-critical-jobs-data-release-this-week"
+                },
+                {
+                    "key": "image",
+                    "value": "https://d3i6fh83elv35t.cloudfront.net/static/2024/08/2024-07-08T213014Z_896810935_RC28R8ACBF57_RTRMADP_3_USA-MARKETS-ELECTION-425x300.jpg"
+                }
+            ]
+        },
+        {
+            "type": "removed",
+            "fields": [
+                {
+                    "key": "title",
+                    "value": "Half a million people flee their homes in Pakistan’s Punjab to escape flooding"
+                },
+                {
+                    "key": "author",
+                    "value": "By Asim Tanveer, Babar Dogar, Associated Press"
+                },
+                {
+                    "key": "link",
+                    "value": "https://www.pbs.org/newshour/world/half-a-million-people-flee-their-homes-in-pakistans-punjab-to-escape-flooding"
+                },
+                {
+                    "key": "image",
+                    "value": "https://d3i6fh83elv35t.cloudfront.net/static/2025/09/GettyImages-2232908055-425x300.jpg"
+                }
+            ]
+        },
+        {
+            "type": "removed",
+            "fields": [
+                {
+                    "key": "title",
+                    "value": "U.S. envoy Witkoff meets European leaders on Ukraine security"
+                },
+                {
+                    "key": "author",
+                    "value": "By Illia Novikov, Associated Press"
+                },
+                {
+                    "key": "link",
+                    "value": "https://www.pbs.org/newshour/world/u-s-envoy-witkoff-meets-european-leaders-on-ukraine-security"
+                },
+                {
+                    "key": "image",
+                    "value": "https://d3i6fh83elv35t.cloudfront.net/static/2025/09/GettyImages-2232234177-425x300.jpg"
+                }
+            ]
+        },
+        {
+            "type": "removed",
+            "fields": [
+                {
+                    "key": "title",
+                    "value": "Death toll from Afghan earthquake jumps to 2,205, the Taliban say"
+                },
+                {
+                    "key": "author",
+                    "value": "By Associated Press"
+                },
+                {
+                    "key": "link",
+                    "value": "https://www.pbs.org/newshour/world/death-toll-from-afghan-earthquake-jumps-to-2205-the-taliban-say"
+                },
+                {
+                    "key": "image",
+                    "value": "https://d3i6fh83elv35t.cloudfront.net/static/2025/09/GettyImages-2232653502-425x300.jpg"
+                }
+            ]
+        },
+        {
+            "type": "removed",
+            "fields": [
+                {
+                    "key": "title",
+                    "value": "WATCH: ‘The abuse was real,’ Epstein survivor implores Trump, who again calls case a ‘hoax’"
+                },
+                {
+                    "key": "author",
+                    "value": "By Dan Cooney"
+                },
+                {
+                    "key": "link",
+                    "value": "https://www.pbs.org/newshour/politics/watch-the-abuse-was-real-epstein-survivor-implores-trump-who-again-calls-case-a-hoax"
+                },
+                {
+                    "key": "image",
+                    "value": "https://d3i6fh83elv35t.cloudfront.net/static/2025/09/2025-09-03T180329Z_1228493055_RC2GKGAR2BMN_RTRMADP_3_USA-TRUMP-EPSTEIN-425x300.jpg"
+                }
+            ]
+        },
+        {
+            "type": "removed",
+            "fields": [
+                {
+                    "key": "title",
+                    "value": "Hurricane Kiko intensifies to Category 4 storm over the Pacific Ocean"
+                },
+                {
+                    "key": "author",
+                    "value": "By Associated Press"
+                },
+                {
+                    "key": "link",
+                    "value": "https://www.pbs.org/newshour/world/hurricane-kiko-intensifies-to-category-4-storm-over-the-pacific-ocean"
+                },
+                {
+                    "key": "image",
+                    "value": "https://d3i6fh83elv35t.cloudfront.net/static/2025/09/Hurricane_Kiko_2025-09-03-1520-e1756940739706-425x300.jpg"
+                }
+            ]
+        }
+    ],
+    "url": "https://www.pbs.org/newshour/latest",
+    "screenshotUrl": "https://storage.googleapis.com/kadoa-public-share/realTimeScreenshots/80c0c885-d806-4e06-b5e3-9706945397ca-68b98c8d963adc22623aa60c-2025-09-04T17:47:07.463Z.jpeg",
+    "createdAt": "2025-09-04T17:47:07.428Z",
+    "diffExtractedAt": "2025-09-04T14:18:46.469Z",
+    "previousChangeScreenshotUrl": "https://storage.googleapis.com/kadoa-public-share/realTimeScreenshots/611b599e-a4d5-482d-8aa2-d8e80014f4d4-68b98c8d963adc22623aa60c-2025-09-04T14:18:44.688Z.jpeg",
+    "data": [
+        {
+            "title": "WATCH: RFK Jr. says firings at CDC were ‘necessary,’ blames organization for failed COVID policy",
+            "author": "By Kenichi Serino",
+            "link": "https://www.pbs.org/newshour/politics/watch-rfk-jr-says-firings-at-cdc-were-necessary-blames-organization-for-failed-covid-policy",
+            "image": "https://d3i6fh83elv35t.cloudfront.net/static/2025/09/2025-09-04T153132Z_1382169221_RC23LGARFWLA_RTRMADP_3_USA-HEALTH-CDC-425x300.jpg"
+        },
+        {
+            "title": "How Donald Trump’s untimely and untrue ‘death’ unfolded on social media",
+            "author": "By Maria Ramirez Uribe, Loreben Tuquero, PolitiFact",
+            "link": "https://www.pbs.org/newshour/politics/how-donald-trumps-untimely-and-untrue-death-unfolded-on-social-media",
+            "image": "https://d3i6fh83elv35t.cloudfront.net/static/2025/09/GettyImages-2233408302-425x300.jpg"
+        },
+        {
+            "title": "Macron says 26 countries pledge troops as a reassurance force for Ukraine after fighting ends",
+            "author": "By Illia Novikov, Samuel Petrequin, Associated Press",
+            "link": "https://www.pbs.org/newshour/politics/the-district-of-columbia-sues-over-trumps-deployment-of-the-national-guard-2",
+            "image": "https://d3i6fh83elv35t.cloudfront.net/static/2025/09/2025-09-04T152337Z_1043460738_RC23LGAHXFMB_RTRMADP_3_UKRAINE-CRISIS-COALITION-425x300.jpg"
+        },
+        {
+            "title": "Nepal blocks Facebook, X, YouTube and others for failing to register with the government",
+            "author": "By Associated Press",
+            "link": "https://www.pbs.org/newshour/world/nepal-blocks-facebook-x-youtube-and-others-for-failing-to-register-with-the-government",
+            "image": "https://d3i6fh83elv35t.cloudfront.net/static/2025/09/2025-09-04T145819Z_281463071_MT1ZUMA000DO2EOC_RTRMADP_3_ZUMA-425x300.jpg"
+        },
+        {
+            "title": "Trump’s Fed nominee says he’d keep his White House job even if confirmed by the Senate",
+            "author": "By Josh Boak, Associated Press",
+            "link": "https://www.pbs.org/newshour/politics/trumps-fed-nominee-says-hed-keep-his-white-house-job-even-if-confirmed-by-the-senate",
+            "image": "https://d3i6fh83elv35t.cloudfront.net/static/2025/09/2025-09-04T155528Z_138761245_RC23LGAK0AE0_RTRMADP_3_USA-FED-MIRAN-425x300.jpg"
+        },
+        {
+            "title": "The District of Columbia sues over Trump’s deployment of the National Guard",
+            "author": "By Lindsay Whitehurst, Associated Press",
+            "link": "https://www.pbs.org/newshour/politics/the-district-of-columbia-sues-over-trumps-deployment-of-the-national-guard",
+            "image": "https://d3i6fh83elv35t.cloudfront.net/static/2025/09/2025-09-02T023142Z_1203452603_RC27JGA4BMLT_RTRMADP_3_USA-TRUMP-CRIME-425x300.jpg"
+        },
+        {
+            "title": "Portuguese investigators search for cause of Lisbon streetcar crash that killed 16",
+            "author": "By Barry Hatton, Suman Naishadham, Associated Press",
+            "link": "https://www.pbs.org/newshour/world/portuguese-investigators-search-for-cause-of-lisbon-streetcar-crash-that-killed-16",
+            "image": "https://d3i6fh83elv35t.cloudfront.net/static/2025/09/GettyImages-2232917234-425x300.jpg"
+        },
+        {
+            "title": "Fashion designer Giorgio Armani dead at 91",
+            "author": "By Associated Press",
+            "link": "https://www.pbs.org/newshour/arts/fashion-designer-giorgio-armani-dead-at-91",
+            "image": "https://d3i6fh83elv35t.cloudfront.net/static/2025/09/GettyImages-2195872177-425x300.jpg"
+        },
+        {
+            "title": "Trump will host top tech CEOs except Musk at a White House dinner",
+            "author": "By Michelle L. Price, Associated Press",
+            "link": "https://www.pbs.org/newshour/politics/trump-will-host-top-tech-ceos-except-musk-at-a-white-house-dinner",
+            "image": "https://d3i6fh83elv35t.cloudfront.net/static/2025/09/GettyImages-2229762357-425x300.jpg"
+        },
+        {
+            "title": "Hurricane Lorena weakens as risk of flash floods and mudslides for Mexico’s west coast remain",
+            "author": "By Associated Press",
+            "link": "https://www.pbs.org/newshour/world/hurricane-lorena-weakens-as-risk-of-flash-floods-and-mudslides-for-mexicos-west-coast-remain",
+            "image": "https://d3i6fh83elv35t.cloudfront.net/static/2025/09/2025-09-03T170608Z_1611621396_RC2HKGA60SG8_RTRMADP_3_STORM-LORENA-MEXICO-425x300.jpg"
+        }
+    ]
+}
