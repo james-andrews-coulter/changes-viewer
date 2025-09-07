@@ -45,11 +45,11 @@ This task list outlines the steps to build the "Changes Viewer" web application.
 - [ ] The browser should display a full-height page with a single, centered button labeled "Upload File".
 
 **Task 5: Create a Static Table Structure for the "Post-Upload State"**
-- [ ] Create a new component file: `src/components/ChangesTable.jsx`.
-- [ ] Import the Radix UI Table components: `import { Table } from '@radix-ui/react-table';`.
-- [ ] In `ChangesTable.jsx`, build a basic, static table structure using the Radix components: `Table.Root`, `Table.Header`, `Table.Row`, `Table.ColumnHeaderCell`, `Table.Body`, and `Table.Cell`.
-- [ ] Add some placeholder static data (e.g., 2-3 rows and columns) to see the structure.
-- [ ] In `App.jsx`, import and render this `<ChangesTable />` component. For now, it will appear alongside the button.
+- [x] Create a new component file: `src/components/ChangesTable.jsx`.
+- [x] Import the Radix UI Table components: `import { Table } from '@radix-ui/react-table';`.
+- [x] In `ChangesTable.jsx`, build a basic, static table structure using the Radix components: `Table.Root`, `Table.Header`, `Table.Row`, `Table.ColumnHeaderCell`, `Table.Body`, and `Table.Cell`.
+- [x] Add some placeholder static data (e.g., 2-3 rows and columns) to see the structure.
+- [x] In `App.jsx`, import and render this `<ChangesTable />` component. For now, it will appear alongside the button.
 
 **QA Step 3: Verify Static Table**
 - [ ] The `ChangesTable` component should render a basic, unstyled table on the screen below the upload button.
@@ -59,25 +59,25 @@ This task list outlines the steps to build the "Changes Viewer" web application.
 ### Phase 3: Implementing Core Logic
 
 **Task 6: Implement File Upload and State Management**
-- [ ] In `App.jsx`, import the `useState` hook from React: `import { useState } from 'react';`.
-- [ ] Create a state to hold the combined table data: `const [tableData, setTableData] = useState([]);`.
-- [ ] Create a file input element: `<input type="file" accept=".json" />`. To keep the UI clean, you can hide this input and trigger its click from the Radix UI Button.
-    - Add `display: 'none'` to the input via an inline style or a CSS class.
-    - Create a `useRef` to reference the input element.
-    - Add an `onClick` handler to the Radix Button that calls `fileInputRef.current.click()`.
-- [ ] Add an `onChange` event handler to the file input to process the selected file.
+- [x] In `App.jsx`, import the `useState` hook from React: `import { useState } from 'react';`.
+- [x] Create a state to hold the combined table data: `const [tableData, setTableData] = useState([]);`.
+- [x] Create a file input element: `<input type="file" accept=".json" />`. To keep the UI clean, you can hide this input and trigger its click from the Radix UI Button.
+    - [x] Add `display: 'none'` to the input via an inline style or a CSS class.
+    - [x] Create a `useRef` to reference the input element.
+    - [x] Add an `onClick` handler to the Radix Button that calls `fileInputRef.current.click()`.
+- [x] Add an `onChange` event handler to the file input to process the selected file.
 
 **Task 7: Parse the JSON File**
-- [ ] Inside the file input's `onChange` handler:
+- [x] Inside the file input's `onChange` handler:
     - Get the selected file from the event object.
     - Use `FileReader` to read the file content as text.
     - When the file is loaded (`reader.onload`), parse the text content using `JSON.parse()`.
     - Extract the `differences` and `data` arrays from the parsed JSON.
-- [ ] Create a new combined array:
-    - Map over the `differences` array to create objects that include a `status` key (e.g., `{ ...record, status: record.type }`).
-    - Map over the `data` array to create objects with a `status` of `'unchanged'`.
-    - Concatenate these two arrays into a single array.
-    - Update the `tableData` state with this new combined array using `setTableData()`.
+- [x] Create a new combined array:
+    - [x] Map over the `differences` array to create objects that include a `status` key (e.g., `{ ...record, status: record.type }`).
+    - [x] Map over the `data` array to create objects with a `status` of `'unchanged'`.
+    - [x] Concatenate these two arrays into a single array.
+    - [x] Update the `tableData` state with this new combined array using `setTableData()`.
 
 **QA Step 4: Verify File Parsing**
 - [ ] Prepare a sample `changes.json` file locally that matches the PRD's data model.
