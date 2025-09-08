@@ -1,0 +1,127 @@
+{
+  "id": "ddbb52c7-c892-4287-b45e-e23ddc0b0550",
+  "workflowId": "88e9b200-1421-4289-83b9-33189e868b46",
+  "differences": [
+    {
+      "type": "added",
+      "fields": [
+        {
+          "key": "title",
+          "value": "New exoplanet discovered in habitable zone"
+        },
+        {
+          "key": "author",
+          "value": "By Dr. Elena Novak"
+        },
+        {
+          "key": "link",
+          "value": "https://example.com/new-exoplanet-hz"
+        },
+        {
+          "key": "image",
+          "value": "https://example.com/img/exoplanet.jpg"
+        }
+      ]
+    },
+    {
+      "type": "added",
+      "fields": [
+        {
+          "key": "title",
+          "value": "Supreme Court hears landmark privacy case"
+        },
+        {
+          "key": "author",
+          "value": "By Rachel Okafor"
+        },
+        {
+          "key": "link",
+          "value": "https://example.com/scotus-privacy-case"
+        },
+        {
+          "key": "image",
+          "value": "https://example.com/img/scotus.jpg"
+        }
+      ]
+    },
+    {
+      "type": "removed",
+      "fields": [
+        {
+          "key": "title",
+          "value": "Mars rover reveals silica-rich rocks"
+        },
+        {
+          "key": "author",
+          "value": "By Asha Raman"
+        },
+        {
+          "key": "link",
+          "value": "https://example.com/mars-silica-rocks"
+        },
+        {
+          "key": "image",
+          "value": "https://example.com/img/mars.jpg"
+        }
+      ]
+    },
+    {
+      "type": "removed",
+      "fields": [
+        {
+          "key": "title",
+          "value": "Tech giant announces satellite texting rollout"
+        },
+        {
+          "key": "author",
+          "value": "By Priya Desai"
+        },
+        {
+          "key": "link",
+          "value": "https://example.com/satellite-texting"
+        },
+        {
+          "key": "image",
+          "value": "https://example.com/img/sat-text.jpg"
+        }
+      ]
+    }
+  ],
+  "url": "https://example.com/news/homepage",
+  "screenshotUrl": "https://example.com/assets/snap-3.jpg",
+  "createdAt": "2025-09-07T11:00:00Z",
+  "diffExtractedAt": "2025-09-07T11:01:00Z",
+  "previousChangeScreenshotUrl": "https://example.com/assets/snap-2.jpg",
+  "data": [
+    {
+      "title": "EU unveils AI Act enforcement roadmap",
+      "author": "By Sofia Petraitis",
+      "link": "https://example.com/eu-ai-act-roadmap",
+      "image": "https://example.com/img/eu-ai.jpg"
+    },
+    {
+      "title": "Global markets rally on jobs data",
+      "author": "By James Li",
+      "link": "https://example.com/markets-rally-jobs",
+      "image": "https://example.com/img/markets.jpg"
+    },
+    {
+      "title": "Champions League group draw live blog",
+      "author": "By Luca Moretti",
+      "link": "https://example.com/ucl-draw-live",
+      "image": "https://example.com/img/ucl.jpg"
+    },
+    {
+      "title": "New exoplanet discovered in habitable zone",
+      "author": "By Dr. Elena Novak",
+      "link": "https://example.com/new-exoplanet-hz",
+      "image": "https://example.com/img/exoplanet.jpg"
+    },
+    {
+      "title": "Supreme Court hears landmark privacy case",
+      "author": "By Rachel Okafor",
+      "link": "https://example.com/scotus-privacy-case",
+      "image": "https://example.com/img/scotus.jpg"
+    }
+  ]
+}

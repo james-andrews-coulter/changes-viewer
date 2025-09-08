@@ -53,28 +53,22 @@ function App() {
 
   return (
     <div className="min-h-screen flex flex-col items-center justify-center p-8">
-      {tableData.length === 0 ? (
-        <>
-          <div className="flex items-center justify-center">
-            <button
-              onClick={() => fileInputRef.current && fileInputRef.current.click()}
-              className="px-6 py-3 bg-blue-600 text-white rounded-lg shadow"
-            >
-              Upload File
-            </button>
-          </div>
-
-          <input
-            ref={fileInputRef}
-            type="file"
-            accept=".json"
-            style={{ display: 'none' }}
-            onChange={handleFileChange}
-          />
-        </>
-      ) : (
-        <ChangesTable data={tableData} />
-      )}
+      <div className="flex items-center justify-center mb-6">
+        <button
+          onClick={() => fileInputRef.current && fileInputRef.current.click()}
+          className="px-6 py-3 bg-blue-600 text-white rounded-lg shadow"
+        >
+          Upload File
+        </button>
+        <input
+          ref={fileInputRef}
+          type="file"
+          accept=".json"
+          style={{ display: 'none' }}
+          onChange={handleFileChange}
+        />
+      </div>
+      {tableData.length > 0 && <ChangesTable data={tableData} />}
     </div>
   )
 }

@@ -1,0 +1,127 @@
+{
+  "id": "1a541e16-4b00-4b59-acb8-b721fb63ac98",
+  "workflowId": "88e9b200-1421-4289-83b9-33189e868b46",
+  "differences": [
+    {
+      "type": "added",
+      "fields": [
+        {
+          "key": "title",
+          "value": "Champions League group draw live blog"
+        },
+        {
+          "key": "author",
+          "value": "By Luca Moretti"
+        },
+        {
+          "key": "link",
+          "value": "https://example.com/ucl-draw-live"
+        },
+        {
+          "key": "image",
+          "value": "https://example.com/img/ucl.jpg"
+        }
+      ]
+    },
+    {
+      "type": "added",
+      "fields": [
+        {
+          "key": "title",
+          "value": "Tech giant announces satellite texting rollout"
+        },
+        {
+          "key": "author",
+          "value": "By Priya Desai"
+        },
+        {
+          "key": "link",
+          "value": "https://example.com/satellite-texting"
+        },
+        {
+          "key": "image",
+          "value": "https://example.com/img/sat-text.jpg"
+        }
+      ]
+    },
+    {
+      "type": "removed",
+      "fields": [
+        {
+          "key": "title",
+          "value": "Central bank holds rates steady at 5.25%"
+        },
+        {
+          "key": "author",
+          "value": "By Daniel Kravitz"
+        },
+        {
+          "key": "link",
+          "value": "https://example.com/cb-hold-5-25"
+        },
+        {
+          "key": "image",
+          "value": "https://example.com/img/cb-rates.jpg"
+        }
+      ]
+    },
+    {
+      "type": "removed",
+      "fields": [
+        {
+          "key": "title",
+          "value": "Wildfires ease along Atlantic coast"
+        },
+        {
+          "key": "author",
+          "value": "By Mira Alvarez"
+        },
+        {
+          "key": "link",
+          "value": "https://example.com/atlantic-wildfires-ease"
+        },
+        {
+          "key": "image",
+          "value": "https://example.com/img/wildfires.jpg"
+        }
+      ]
+    }
+  ],
+  "url": "https://example.com/news/homepage",
+  "screenshotUrl": "https://example.com/assets/snap-2.jpg",
+  "createdAt": "2025-09-07T10:30:00Z",
+  "diffExtractedAt": "2025-09-07T10:31:00Z",
+  "previousChangeScreenshotUrl": "https://example.com/assets/snap-1.jpg",
+  "data": [
+    {
+      "title": "EU unveils AI Act enforcement roadmap",
+      "author": "By Sofia Petraitis",
+      "link": "https://example.com/eu-ai-act-roadmap",
+      "image": "https://example.com/img/eu-ai.jpg"
+    },
+    {
+      "title": "Global markets rally on jobs data",
+      "author": "By James Li",
+      "link": "https://example.com/markets-rally-jobs",
+      "image": "https://example.com/img/markets.jpg"
+    },
+    {
+      "title": "Mars rover reveals silica-rich rocks",
+      "author": "By Asha Raman",
+      "link": "https://example.com/mars-silica-rocks",
+      "image": "https://example.com/img/mars.jpg"
+    },
+    {
+      "title": "Champions League group draw live blog",
+      "author": "By Luca Moretti",
+      "link": "https://example.com/ucl-draw-live",
+      "image": "https://example.com/img/ucl.jpg"
+    },
+    {
+      "title": "Tech giant announces satellite texting rollout",
+      "author": "By Priya Desai",
+      "link": "https://example.com/satellite-texting",
+      "image": "https://example.com/img/sat-text.jpg"
+    }
+  ]
+}
