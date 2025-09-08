@@ -1,0 +1,42 @@
+{
+  "id": "70cb5ca2-8d6e-4e90-aefb-000df1627dff",
+  "workflowId": "88e9b200-1421-4289-83b9-33189e868b46",
+  "differences": [],
+  "url": "https://example.com/news/homepage",
+  "screenshotUrl": "https://example.com/assets/snap-1.jpg",
+  "createdAt": "2025-09-07T10:00:00Z",
+  "diffExtractedAt": "2025-09-07T10:01:00Z",
+  "previousChangeScreenshotUrl": "",
+  "data": [
+    {
+      "title": "EU unveils AI Act enforcement roadmap",
+      "author": "By Sofia Petraitis",
+      "link": "https://example.com/eu-ai-act-roadmap",
+      "image": "https://example.com/img/eu-ai.jpg"
+    },
+    {
+      "title": "Central bank holds rates steady at 5.25%",
+      "author": "By Daniel Kravitz",
+      "link": "https://example.com/cb-hold-5-25",
+      "image": "https://example.com/img/cb-rates.jpg"
+    },
+    {
+      "title": "Wildfires ease along Atlantic coast",
+      "author": "By Mira Alvarez",
+      "link": "https://example.com/atlantic-wildfires-ease",
+      "image": "https://example.com/img/wildfires.jpg"
+    },
+    {
+      "title": "Global markets rally on jobs data",
+      "author": "By James Li",
+      "link": "https://example.com/markets-rally-jobs",
+      "image": "https://example.com/img/markets.jpg"
+    },
+    {
+      "title": "Mars rover reveals silica-rich rocks",
+      "author": "By Asha Raman",
+      "link": "https://example.com/mars-silica-rocks",
+      "image": "https://example.com/img/mars.jpg"
+    }
+  ]
+}
